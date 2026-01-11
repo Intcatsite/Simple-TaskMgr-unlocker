@@ -1,7 +1,6 @@
 # Simple-TaskMgr-unlocker
-Simple System Unlocker
 English Version
-Description
+#Description
 Simple System Unlocker is a technical utility designed to restore access to critical Windows management tools. It targets and removes registry-based restrictions often deployed by malicious software or restrictive administrative policies.
 
 Functionality
@@ -31,7 +30,8 @@ Disclaimer
 This software is provided for system recovery purposes only. Use it at your own risk.
 
 Русская версия
-Описание
+
+#Описание
 Simple System Unlocker - это техническая утилита, предназначенная для восстановления доступа к критическим инструментам управления Windows. Она находит и удаляет ограничения в реестре, установленные вредоносным программным обеспечением или строгими административными политиками.
 
 Функциональность
